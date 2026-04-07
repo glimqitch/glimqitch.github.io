@@ -7,11 +7,6 @@ title: Inicio
 
 Soy **[Tu Nombre]** , analista de seguridad ofensiva y defensiva.
 
-En este espacio encontrarás:
-- Mis proyectos y scripts
-- Guías técnicas de herramientas
-- Mi CV y contacto profesional
-
 **Áreas de interés:**  
 🔹 Pentesting web y móvil  
 🔹 Análisis de malware  
