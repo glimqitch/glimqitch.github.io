@@ -5,7 +5,7 @@ title: Sobre mí
 
 # Sobre mí
 
-Soy **Iris** , técnica en ciberseguridad con interés en **pentesting** y **respuesta a incidentes**.
+Soy **Iris**, técnica en ciberseguridad con interés en **pentesting** y **respuesta a incidentes**.
 
 ### Estudios y formación
 - CFGS de Administración de Sistemas Informáticos en Red
