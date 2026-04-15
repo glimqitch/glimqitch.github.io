@@ -91,13 +91,3 @@ Dentro de la shell de root, se listan los archivos y se encuentra `root.txt`. Al
 |------|-------|
 | Usuario (lennie) | `THM{03ce3d619b80ccbfb3b7fc81e46c0e79}` |
 | Root | `THM{f963aaa6a430f210222158ae15c3d76d}` |
-
----
-
-## Lecciones aprendidas
-
-- El acceso anónimo a FTP combinado con un servidor web puede permitir ejecución remota de código.
-- Las capturas de red (pcap) pueden contener información sensible como contraseñas en texto claro.
-- Las contraseñas se reutilizan a menudo entre diferentes servicios (FTP, SSH, etc.).
-- Las tareas cron mal configuradas o con permisos de escritura inadecuados son una puerta común para escalar privilegios.
-- Herramientas como `pspy` son muy útiles para descubrir procesos automáticos cuando no se tienen permisos para ver crontabs.
