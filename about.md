@@ -9,7 +9,7 @@ Soy **Iris**, técnica en ciberseguridad con interés en **pentesting** y **resp
 
 ### Estudios y formación
 - CFGS de Administración de Sistemas Informáticos en Red
-- Cursos específicos:Ciberseguridad en Entornos de las Tecnologías de la Información
+- Cursos específicos: Ciberseguridad en Entornos de las Tecnologías de la Información
 
 ### Intereses actuales
 - Detección de vulnerabilidades en entornos Windows/Linux
