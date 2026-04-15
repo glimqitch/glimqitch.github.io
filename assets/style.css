@@ -1,36 +1,80 @@
+/* tipografía más futurista */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap');
+
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
-  color: #333;
+  /* fondo oscuro con un ligero degradado púrpura */
+  background: linear-gradient(135deg, #0d0d0d 0%, #1a001a 100%);
+  color: #e0e0e0;               /* texto claro para contraste */
 }
+
+/* encabezado */
 header {
-  background: #0a2f44;
-  color: white;
+  background: #0a001a;          /* negro con matiz violeta */
+  color: #ff00ff;               /* neón lila */
   padding: 1rem;
   text-align: center;
+  text-shadow: 0 0 8px #ff00ff;
 }
+
+/* enlaces de navegación */
 nav a {
-  color: white;
+  color: #ff00ff;
   margin: 0 15px;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 600;
+  transition: color .2s, text-shadow .2s;
 }
+nav a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 12px #ff00ff;
+}
+
+/* contenido principal */
 main {
   max-width: 1000px;
   margin: 2rem auto;
   padding: 1rem;
-  background: white;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background: rgba(10, 0, 26, 0.85);   /* caja semi‑transparente negra */
+  box-shadow: 0 0 20px rgba(255,0,255,.4);
+  border-radius: 8px;
 }
+
+/* pie de página */
 footer {
   text-align: center;
   padding: 1rem;
-  background: #0a2f44;
-  color: white;
+  background: #0a001a;
+  color: #ff00ff;
   font-size: 0.9rem;
+  text-shadow: 0 0 6px #ff00ff;
 }
+
+/* enlaces dentro del cuerpo */
 a {
-  color: #0a2f44;
+  color: #ff00ff;
+  transition: color .2s, text-shadow .2s;
+}
+a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 10px #ff00ff;
+}
+
+/* opcional: estilo para botones */
+button, .btn {
+  background: #ff00ff;
+  border: none;
+  color: #0a001a;
+  padding: 0.6rem 1.2rem;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0 0 8px #ff00ff;
+  transition: background .2s, transform .1s;
+}
+button:hover, .btn:hover {
+  background: #e600e6;
+  transform: translateY(-2px);
 }
