@@ -1,4 +1,4 @@
-# Walkthrough: Máquina Ubuntu 16.04 (CTF Style)
+# Walkthrough: Startup THM
 
 ## Resumen del ataque
 
