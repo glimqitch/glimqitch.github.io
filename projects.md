@@ -5,4 +5,4 @@ title: Proyectos y Guías
 
 # Proyectos y Guías técnicas
 
-## EN CONSTRUCCIÓN
+## [asd](/project/startup.md)
