@@ -5,7 +5,7 @@ title: Inicio
 
 # Bienvenido a mi portafolio de ciberseguridad
 
-Soy **Iris** , analista de seguridad ofensiva y defensiva.
+Soy **Iris**, analista de seguridad ofensiva y defensiva.
 
 **Áreas de interés:**  
 - Pentesting web y móvil  
