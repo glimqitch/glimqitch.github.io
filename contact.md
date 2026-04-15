@@ -5,14 +5,10 @@ title: Contacto y CV
 
 # Contacto y CV
 
-### 📧 Correo profesional
-tu-correo@example.com
+### Correo profesional
+imqibanez@gmail.com
 
-### 🔗 LinkedIn
-[linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-
-### 📄 Descarga mi CV
-[CV en PDF](/assets/cv.pdf) (última actualización: marzo 2025)
+### [LinkedIn](https://www.linkedin.com/in/iris-queralt-9a0bba30a/)
 
 ---
 
