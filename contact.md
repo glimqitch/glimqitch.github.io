@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Contacto y CV
+title: Contacto
 ---
 
-# Contacto y CV
+# Contacto
 
 ### Correo profesional
 imqibanez@gmail.com
 
 ### [LinkedIn](https://www.linkedin.com/in/iris-queralt-9a0bba30a/)
+
+### [CV](https://www.linkedin.com/in/iris-queralt-9a0bba30a/)
 
 ---
 
