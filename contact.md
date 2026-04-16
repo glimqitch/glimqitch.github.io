@@ -10,7 +10,7 @@ imqibanez@gmail.com
 
 ### [LinkedIn](https://www.linkedin.com/in/iris-queralt-9a0bba30a/)
 
-### [CV (PDF)](/assets/cv.pdf)
+### [CV Europass (PDF)](/assets/cv.pdf)
 
 ---
 
